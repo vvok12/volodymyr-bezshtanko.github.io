@@ -1,4 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://volodymyr-bezshtanko.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Volodymyr Bezshtanko'
 theme = 'hugo-resume'
+
+[params]
+sections = ["skills"]
